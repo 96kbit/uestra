@@ -1,10 +1,10 @@
 
 @crArchive {border:1px solid #888;background-color: #eeeeee;}
-.crArchiveItem {background-color: #ffffff;padding:2px;text-align:left;}
-.crArchiveItem.CREven {background-color: #eeeeee;}
-.crArchiveItemDate {display:block;float:left; min-width:85px;text-align:left;}
-.crArchiveItemName {display:inline;font-weight:bold;}
-.crArchiveItemImage, .crArchiveItemDescription {display:none;}
+@crArchiveItem {background-color: #ffffff;padding:2px;text-align:left;}
+@crArchiveItem.CREven {background-color: #eeeeee;}
+@crArchiveItemDate {display:block;float:left; min-width:85px;text-align:left;}
+@crArchiveItemName {display:inline;font-weight:bold;}
+@crArchiveItemImage, .crArchiveItemDescription {display:none;}
 
 @font-face {
   font-family: 'Noto Sans';
